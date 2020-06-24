@@ -40,3 +40,6 @@ def before_request():
 # def insufficient_permissions(e):
 #     """Render a 403 page."""
 #     return render_template("403.html"), 403
+
+if __name__ == '__main__':
+    app.run()
