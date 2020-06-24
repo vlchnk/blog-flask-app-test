@@ -1,0 +1,5 @@
+Flask==1.0.2
+Flask-SQLAlchemy==2.3.2
+flask-oidc==1.4.0
+python-slugify==1.2.5
+okta==0.0.4
